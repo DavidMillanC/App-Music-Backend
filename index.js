@@ -5,10 +5,13 @@ var port = 3800;
 mongoose.Promise = global.Promise;
 
 mongoose
-  .connect("mongodb://localhost:27017/db-music", {
-    useUnifiedTopology: true,
-    useNewUrlParser: true,
-  })
+  .connect(
+    "mongodb+srv://adminJorge:utmach2022*@cluster0.tfevh.mongodb.net/db-music",
+    {
+      useUnifiedTopology: true,
+      useNewUrlParser: true,
+    }
+  )
   .then(() => {
     console.log("Conexión exitosa!");
 
