@@ -1,4 +1,4 @@
-const Album = require("../models/album");
+const Album = require("../models/album.model");
 
 function getAlbum(req, res) {
   Album.find((err, autorList) => {
@@ -17,8 +17,7 @@ function getAlbum(req, res) {
 }
 
 function getByIdAlbum(req, res) {
-  var idAlbum = req.params.id;
-
+  const idAlbum = req.params.id;
   Album.findById(idAlbum).exec((err, album) => {
     if (err) {
       res.status(500).send({
@@ -39,15 +38,13 @@ function getByIdAlbum(req, res) {
 }
 
 function saveAlbum(req, res) {
-  var album = new Album();
-  var params = req.body;
-
+  const album = new Album();
+  const params = req.body;
   if (params.nombre) {
     album.imagen = params.imagen;
     album.nombre = params.nombre;
     album.autor = params.autor;
     album.lanzamiento = params.lanzamiento;
-
     album.save((err, albumStored) => {
       if (err) {
         res.status(500).send({
@@ -73,7 +70,7 @@ function saveAlbum(req, res) {
 }
 
 function updateAlbum(req, res) {
-  var idAlbum = req.params.id;
+  const idAlbum = req.params.id;
   const update = req.body;
   Album.findByIdAndUpdate(
     idAlbum,
@@ -101,7 +98,6 @@ function updateAlbum(req, res) {
 
 function deleteAlbum(req, res) {
   const idAlbum = req.params.id;
-
   Album.findByIdAndRemove(idAlbum, (err, albumRemoved) => {
     if (err) {
       res.status(500).send({

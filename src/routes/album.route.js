@@ -1,7 +1,7 @@
-var express = require("express");
-var albumController = require("../controllers/album");
+const express = require("express");
+const albumController = require("../controllers/album.controller");
 
-var api = express.Router();
+const api = express.Router();
 
 api.get("/albums", albumController.getAlbum);
 api.get("/album/:id", albumController.getByIdAlbum);

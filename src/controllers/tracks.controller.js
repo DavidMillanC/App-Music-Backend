@@ -1,5 +1,5 @@
-const Album = require("../models/album");
-const Tracks = require("../models/tracks");
+const Album = require("../models/album.model");
+const Tracks = require("../models/tracks.model");
 
 function getTrackById(req, res) {
   const idTrack = req.params.id;

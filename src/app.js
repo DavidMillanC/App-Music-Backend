@@ -1,6 +1,7 @@
-var express = require("express");
-const { model } = require("mongoose");
-var app = express();
+const mongoose = require("mongoose");
+const express = require("express");
+const app = express();
+const port = 3800;
 const cors = require("cors");
 
 app.use(cors());
@@ -26,9 +27,9 @@ app.use(function (req, res, next) {
 app.use(express.urlencoded({ extended: true }));
 
 // rutas
-var artista_routes = require("./routes/artista");
-var album_routes = require("./routes/album");
-var track_routes = require("./routes/tracks");
+const artista_routes = require("./routes/artista.route");
+const album_routes = require("./routes/album.route");
+const track_routes = require("./routes/tracks.route");
 
 //ruta base
 app.use("/", artista_routes);
@@ -42,4 +43,21 @@ app.get("/", (req, res) => {
   });
 });
 
-module.exports = app;
+mongoose.Promise = global.Promise;
+
+mongoose
+  .connect(
+    "mongodb+srv://adminJorge:utmach2022*@cluster0.tfevh.mongodb.net/db-music",
+    {
+      useUnifiedTopology: true,
+      useNewUrlParser: true,
+    }
+  )
+  .then(() => {
+    console.log("Conexión exitosa!");
+
+    app.listen(port, () => {
+      console.log("Serivor corriendo en localhost:3800");
+    });
+  })
+  .catch((err) => console.log(err));

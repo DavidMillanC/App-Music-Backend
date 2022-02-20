@@ -1,4 +1,4 @@
-const Artista = require("../models/artista");
+const Artista = require("../models/artista.model");
 
 function getArtistas(req, res) {
   Artista.find((err, artistaList) => {
@@ -17,8 +17,7 @@ function getArtistas(req, res) {
 }
 
 function getByIdArtista(req, res) {
-  var idArtista = req.params.id;
-
+  const idArtista = req.params.id;
   Artista.findById(idArtista).exec((err, Artista) => {
     if (err) {
       res.status(500).send({
@@ -39,8 +38,8 @@ function getByIdArtista(req, res) {
 }
 
 function saveArtista(req, res) {
-  var artista = new Artista();
-  var params = req.body;
+  const artista = new Artista();
+  const params = req.body;
   if (params.nombre) {
     artista.imagen = params.imagen;
     artista.nombre = params.nombre;
@@ -49,7 +48,6 @@ function saveArtista(req, res) {
     artista.seguidores = params.seguidores;
     artista.resena = params.resena;
     artista.video = params.video;
-
     artista.save((err, Artistatored) => {
       if (err) {
         res.status(500).send({
@@ -73,8 +71,9 @@ function saveArtista(req, res) {
     });
   }
 }
+
 function updateArtista(req, res) {
-  var idArtista = req.params.id;
+  const idArtista = req.params.id;
   const update = req.body;
   Artista.findByIdAndUpdate(
     idArtista,
@@ -102,7 +101,6 @@ function updateArtista(req, res) {
 
 function deleteArtista(req, res) {
   const idArtista = req.params.id;
-
   Artista.findByIdAndRemove(idArtista, (err, artistaRemoved) => {
     if (err) {
       res.status(500).send({
