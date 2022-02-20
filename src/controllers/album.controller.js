@@ -37,6 +37,27 @@ function getByIdAlbum(req, res) {
   });
 }
 
+function getByArtista(req, res) {
+  const autor = req.params.id;
+  Album.find({ autor: autor }).exec((err, albums) => {
+    if (err) {
+      res.status(500).send({
+        message: "Error del servidor",
+      });
+    } else {
+      if (albums) {
+        res.status(200).send({
+          albums,
+        });
+      } else {
+        res.status(404).send({
+          message: "No hay album...!",
+        });
+      }
+    }
+  });
+}
+
 function saveAlbum(req, res) {
   const album = new Album();
   const params = req.body;
@@ -120,6 +141,7 @@ function deleteAlbum(req, res) {
 module.exports = {
   getAlbum,
   getByIdAlbum,
+  getByArtista,
   saveAlbum,
   updateAlbum,
   deleteAlbum,
