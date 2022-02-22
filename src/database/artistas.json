@@ -1,0 +1,210 @@
+[
+  {
+    "_id": {
+      "$oid": "6211c1176b1ae8a14c3da67f"
+    },
+    "imagen": "https://vanguardia.com.mx/binrepository/768x499/0c34/768d432/down-right/11604/YPJC/22729097_1500096610040091_1389704366534054057_n1_VG3341571_MG2373755.jpg",
+    "nombre": "Luis Miguel",
+    "edad": 51,
+    "nacionalidad": "Puerto Rico",
+    "seguidores": "2.2m",
+    "resena": "Es considerado como uno de los artistas más grandes y exitosos de América Latina por su amplia gama de estilos musicales, incluyendo funk, pop, baladas, boleros, tangos, jazz, big band y mariachi. También es reconocido como el único cantante latino de su generación que no se cruza con el mercado anglosajón durante la Explosión latina en la década de 1990.10​ A pesar de cantar solo en español, continuó siendo el artista latino más vendido en la década de los 90, y se le atribuyó la popularización del género bolero en el mercado general.11​ Ha vendido más de 100 millones de discos en todo el mundo.",
+    "__v": 0,
+    "video": "https://www.youtube.com/embed/D79-FN99dRI"
+  },
+  {
+    "_id": {
+      "$oid": "6211cbafe4873caa9e209faa"
+    },
+    "imagen": "https://i.pinimg.com/564x/5f/0e/71/5f0e717c6eb48dcab8056bbf12321f2b.jpg",
+    "nombre": "Bad Bunny",
+    "edad": 27,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "38m",
+    "resena": "Bad Bunny, es un rapero y compositor estadounidense. Su estilo de música es generalmente definido como trap latino y reguetón, pero también incorporó otros géneros como rock, kizomba y soul. También es conocido por su entonación grave y rasposa y su llamativo estilo.",
+    "video": "https://www.youtube.com/embed/doLMt10ytHY",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211ce01e4873caa9e209ffe"
+    },
+    "imagen": "https://i.pinimg.com/564x/86/a4/07/86a407b872805a52bde9df2bf26219a8.jpg",
+    "nombre": "Anuel AA",
+    "edad": 30,
+    "nacionalidad": "Puertorriqueña",
+    "seguidores": "27.2m",
+    "resena": "Anuel AA, es un rapero y cantante puertorriqueño. Se le considera un pionero del movimiento del trap latino y sus letras tratan sobre el crimen y la vida urbana en Puerto Rico.",
+    "video": "https://www.youtube.com/embed/J4_W-R3iPJ8",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211ceb4e4873caa9e20a007"
+    },
+    "imagen": "https://i.pinimg.com/564x/d9/96/7b/d9967be2a5475f0e433f355988f0e3dd.jpg",
+    "nombre": "J Balvin",
+    "edad": 36,
+    "nacionalidad": "Colombiana",
+    "seguidores": "51.5m",
+    "resena": "J Balvin, es un cantante, compositor y productor discográfico colombiano. Ha logrado posicionarse tanto en el mercado musical hispano como en el mercado musical de habla inglesa, llegando a colocar sus temas en número uno en varias listas musicales, entre ellas Billboard. También es conocido como el Príncipe del Reguetón.",
+    "video": "https://www.youtube.com/embed/MjlTKXujfwE",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211cfade4873caa9e20a013"
+    },
+    "imagen": "https://i.pinimg.com/564x/6a/1e/07/6a1e074a6fb877e39cfe2c9f11a161c3.jpg",
+    "nombre": "Ozuna",
+    "edad": 29,
+    "nacionalidad": "Puertorriqueña",
+    "seguidores": "22m",
+    "resena": "Es un cantante, compositor, rapero y actor puertorriqueño.\nSu interés por la música surgió a los 12 años, cuando empezó a componer canciones.\nInició su carrera musical en 2012, al publicar su primera canción titulada «Imaginando».",
+    "video": "https://www.youtube.com/embed/KWGrPNqz4uc",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d03de4873caa9e20a01c"
+    },
+    "imagen": "https://i.pinimg.com/564x/3d/6d/b8/3d6db80c6c6c3015370c94187555f3dc.jpg",
+    "nombre": "Coldplay",
+    "edad": 26,
+    "nacionalidad": "Reino Unido",
+    "seguidores": "14.9m",
+    "resena": "Coldplay es una banda británica de pop rock y rock alternativo formada en Londres en 1996. Está integrada por Chris Martin, Jon Buckland, Guy Berryman y Will Champion. Es uno de los grupos más relevantes de principios de la década de los 2000.",
+    "video": "https://www.youtube.com/embed/RB-RcX5DS5A",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d113e4873caa9e20a022"
+    },
+    "imagen": "https://i.pinimg.com/564x/ab/5e/85/ab5e85d7de60f9695bb01125bce7fc57.jpg",
+    "nombre": "Imagine Dragons",
+    "edad": 14,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "5.1m",
+    "resena": "Imagine Dragons es una banda estadounidense de Pop Rock originaria de Las Vegas, Nevada. Está compuesta por Dan Reynolds (vocalista), Daniel Wayne Sermon (guitarrista), Ben McKee (bajista) y Daniel Platzman (baterista). La banda ganó el reconocimiento mundial con el lanzamiento de su álbum de estudio debut Night Visions (2012), y con su canción \"It's Time\". Billboard colocó a Imagine Dragons en la cima de su ranking del 2013 \"Year In Rock\", además los llamó «la banda revelación del 2013».6​ La revista Rolling Stone llamó a su canción Radioactive de Night Visions «el mayor éxito rock del año».",
+    "video": "https://www.youtube.com/embed/D9G1VOjN_84",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d208e4873caa9e20a031"
+    },
+    "imagen": "https://i.pinimg.com/564x/80/1e/70/801e70a79f7a71b1602969bc31cf99cd.jpg",
+    "nombre": "Rihana",
+    "edad": 34,
+    "nacionalidad": "Barbados",
+    "seguidores": "10m",
+    "resena": "Robyn Rihanna Fenty (Saint Michael, Barbados; 20 de febrero de 1988), conocida simplemente como Rihanna, es una cantante, actriz, diseñadora y empresaria barbadense. Es conocida por fusionar algunos géneros caribeños con música pop y por reinventar su imagen a través de los años. Su impacto en la cultura popular la ha llevado a convertirse en un icono de la música y de la moda, por lo que se refieren a ella como la «Princesa del R&B» y «Reina de la Moda».3​4​ Rihanna es además considerada la artista musical más influyente y exitosa del siglo XXI.",
+    "video": "https://www.youtube.com/embed/lWA2pjMjpBs",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d2a7e4873caa9e20a034"
+    },
+    "imagen": "https://i.pinimg.com/564x/dd/c2/60/ddc260a35ff9054a0b9b9acaa39888b3.jpg",
+    "nombre": "Drake",
+    "edad": 33,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "1m",
+    "resena": "Aubrey Drake Graham (Toronto, 24 de octubre de 1986), conocido simplemente como Drake, es un músico, cantante, compositor, productor discográfico y actor canadiense. Originalmente se hizo conocido por interpretar al personaje de Jimmy Brooks de la serie de televisión Degrassi: The Next Generation. Más tarde saltó a la fama como cantante de rap, lanzando varios mixtapes antes de firmar con Lil Wayne en la compañía discográfica estadounidense Young Money Entertainment en junio de 2006.",
+    "video": "https://www.youtube.com/embed/vcer12OFU2g",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d367e4873caa9e20a040"
+    },
+    "imagen": "https://i.pinimg.com/564x/17/14/3c/17143ce71abc4acbe0307f0f9400a0ed.jpg",
+    "nombre": "Eminem",
+    "edad": 49,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "34.9m",
+    "resena": "Marshall Bruce Mathers III (St Joseph, 17 de octubre de 1972), conocido artísticamente como Eminem (estilizado como EMINƎM) o como Slim Shady, es un rapero, productor discográfico y actor estadounidense. Su nombre artístico proviene de la unión de las iniciales de Marshall Mathers: M&M («Em and Em», estilizándose como Eminem), mientras que su segundo nombre artístico (llevado al español como Sombra Misteriosa o el Flaco Sombrío) se hizo conocer por primera vez en 1997 con su primer EP titulado The Slim Shady EP",
+    "video": "https://www.youtube.com/embed/YVkUvmDQ3HY",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d43de4873caa9e20a046"
+    },
+    "imagen": "https://i.pinimg.com/564x/61/59/64/6159649dcad93784a28d0676b9a620ce.jpg",
+    "nombre": "The Weeknd",
+    "edad": 32,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "36.8m",
+    "resena": "Abel Makkonen Tesfaye (Toronto, Ontario; 16 de febrero de 1990), conocido por su nombre artístico The Weeknd, es un cantante, compositor y productor canadiense, conocido por éxitos como «Save Your Tears», «Blinding Lights», «The Hills», «Starboy» entre otros.",
+    "video": "https://www.youtube.com/embed/qFLhGq0060w",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d4e1e4873caa9e20a052"
+    },
+    "imagen": "https://i.pinimg.com/736x/3f/88/67/3f886759ec8b87e2a8851423888c3707.jpg",
+    "nombre": "Post Malone",
+    "edad": 26,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "22.3",
+    "resena": "Austin Richard Post, (Siracusa, Nueva York, 4 de julio de 1995) más conocido por su nombre artístico Post Malone, es un cantante, rapero compositor, actor y productor estadounidense.1​ Ganó un gran reconocimiento en agosto de 2015 gracias al sencillo debut «White Iverson». Más adelante pasó a lanzar «Congratulations» y «Rockstar», que, respectivamente, alcanzaron los números 8 y 1 en el Billboard Hot 100, de los Estados Unidos. Posteriormente consiguió un contrato discográfico con Republic Records.",
+    "video": "https://www.youtube.com/embed/ApXoWvfEYVU",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d566e4873caa9e20a05b"
+    },
+    "imagen": "https://i.pinimg.com/564x/ec/0f/b9/ec0fb906c9094d6799159cfb2a188b30.jpg",
+    "nombre": "Grupo Nectar",
+    "edad": 12,
+    "nacionalidad": "Peruana",
+    "seguidores": "360k",
+    "resena": "El Grupo Néctar es una agrupación de cumbia peruana, fundada en Buenos Aires, Argentina en el año 1995 conformado desde sus inicios por Jhonny Orosco Torres (cantante), Ricardo \"Papita\" Hinostroza (congas), Enrique Orosco (bajista) y Juan Carlos Marchand \"Calín\" (batería). Su estilo de cumbia es costeña, con arreglos propios y ritmo bailable.",
+    "video": "https://www.youtube.com/embed/ytY6js9mhwU",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d5e7e4873caa9e20a064"
+    },
+    "imagen": "https://i.pinimg.com/564x/4a/9f/6b/4a9f6bcb8fc9874bbc8d97385fd52409.jpg",
+    "nombre": "Marc Anthony",
+    "edad": 53,
+    "nacionalidad": "Estadounidense",
+    "seguidores": "11.6",
+    "resena": "Marco Antonio Muñiz Rivera (Nueva York; 16 de septiembre de 1968), más conocido cómo Marc Anthony, es un cantautor y actor puertorriqueño-estadounidense, cuyos temas van desde la salsa, pasando por el bolero, la balada y el pop. Empezó su carrera discográfica en el género hip hop con el dúo Little Louie & Marc Anthony, llegando al N.º 1 de las listas estadounidenses en 1991. Ralph Mercado lo contrató para su sello RMM en esa fecha y lo lanzó cantando salsa, consiguiendo un gran éxito que duró años, desde su primer sencillo con la canción \"Hasta que te conocí\" de Juan Gabriel que fue N.º 1 en ventas.",
+    "video": "https://www.youtube.com/embed/toLrTToaN0M",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d66fe4873caa9e20a06a"
+    },
+    "imagen": "https://i.pinimg.com/736x/5d/47/07/5d4707f471e56336a0281a36a558d3e3.jpg",
+    "nombre": "Laura Pausini",
+    "edad": 47,
+    "nacionalidad": "Italiana",
+    "seguidores": "3.7",
+    "resena": "Laura Pausini (Faenza,4​ 16 de mayo de 1974) es una cantante, productora, compositora y personalidad televisiva italiana, ganadora de múltiples premios internacionales. Cuando era niña, su padre la animó a unirse a él durante sus actuaciones en los pianos bares locales. Vivió y se crio en Solarolo en la casa de sus padres hasta antes de comenzar su carrera profesional, cuando se mudó a Milán.\n\nSu carrera se distingue por cantar en los idiomas italiano y español, pero también por haber grabado canciones en portugués, inglés, francés,5​ y catalán.6​ Sus álbumes han tenido éxito comercial principalmente en el continente europeo, Estados Unidos, Canadá, Siria,7​ Medio Oriente, México y el resto de América, con trece álbumes de estudio en el mercado.",
+    "video": "https://www.youtube.com/embed/jKlYf1oArQg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6213d77c451f282468b66520"
+    },
+    "imagen": "https://i.pinimg.com/564x/eb/66/71/eb6671f2a9300231f547a8df414c957e.jpg",
+    "nombre": "Jhay Cortez",
+    "edad": 28,
+    "nacionalidad": "Puertorriqueña",
+    "seguidores": "32.3m",
+    "resena": "Jesús Manuel Nieves Cortez, conocido artísticamente como Jhay Cortez, es un cantante, rapero, compositor y productor discográfico puertorriqueño de reguetón y trap latino. ",
+    "video": "https://www.youtube.com/embed/o1lKMrLat_I",
+    "__v": 0
+  }
+]

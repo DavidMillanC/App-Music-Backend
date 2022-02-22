@@ -1,0 +1,1202 @@
+[
+  {
+    "_id": {
+      "$oid": "6211c7dfe4873caa9e209f23"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Entrégate",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Entregate.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211c870e4873caa9e209f2e"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Tengo todo excepto a ti",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Tengo Todo Excepto A Ti.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d72ae4873caa9e20a082"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "La noche de anoche",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2020/11/05 - Bad Bunny, Rosalía - LA NOCHE DE ANOCHE.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211e745560c2b13ec5f7a8c"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Dakiti",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2020/10/Bad Bunny Ft. Jhay Cortez - Dakiti.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621276159b1be8da84adfdde"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "120 ",
+    "url": "https://elgenero.me/musica/-/2021/07/Bad%20Bunny%20-%20120.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621277189b1be8da84adfe31"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Como se siente Remix",
+    "url": "https://mp3.downloadyt.com/wp-content/uploads/2020/05/Bad%20Bunny%20Ft.%20Jhay%20Cortez%20-%20Como%20Te%20Siente%20(Remix).mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127bdc8d8a0bd5400f1fe2"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Será que no me amas",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Sera Que No Me Amas.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127c128d8a0bd5400f1feb"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Hoy el aire huele a ti",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Hoy El Aire Huele A Ti.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127c468d8a0bd5400f1ff0"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Mas allá de todo",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Mas Alla De Todo.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127c768d8a0bd5400f1ff5"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Amante del amor",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Amante Del Amor.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127cab8d8a0bd5400f1ffa"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c4ab6b1ae8a14c3da6ab"
+      },
+      "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+      "nombre": "20 Años",
+      "autor": "Luis Miguel"
+    },
+    "name": "Más",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2017/06/Luis Miguel - Mas.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127d358d8a0bd5400f200f"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "El mundo es mío",
+    "url": "https://mp3teca.app/-/mp3/128/Bad%20Bunny%20%E2%80%93%20El%20Mundo%20Es%20Mio.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127d8e8d8a0bd5400f2021"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Booker T",
+    "url": "https://mp3teca.app/-/mp3/128/Bad%20Bunny%20%E2%80%93%20Booker%20T.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127df18d8a0bd5400f2026"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Sorry Papi",
+    "url": "https://mp3teca.app/-/mp3/128/Bad%20Bunny%20ft%20Abra%20%E2%80%93%20Sorry%20Papi.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127e318d8a0bd5400f202f"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Te mudaste",
+    "url": "https://mp3teca.app/-/mp3/128/Bad%20Bunny%20%E2%80%93%20Te%20Mudaste.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127e9e8d8a0bd5400f203c"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Te deseo lo mejor",
+    "url": "https://mp3.corourbano.com/wp-content/uploads/2020/11/06 - Bad Bunny - TE DESEO LO MEJOR.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62127f698d8a0bd5400f2046"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Hoy cobré",
+    "url": "https://mp3teca.app/-/aac/96/94081_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212800d8d8a0bd5400f2053"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c893ec943da18f61e1f0"
+      },
+      "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+      "nombre": "El último tour del mundo",
+      "autor": "Bad Bunny"
+    },
+    "name": "Haciendo que me amas",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny – Haciendo Que Me Amas.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621280548d8a0bd5400f205e"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Si ella sale",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny – Si Ella Sale.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212808a8d8a0bd5400f2063"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Más de una cita",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny ft Zion & Lennox – Más De Una Cita.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621280af8d8a0bd5400f2068"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Bye me fui",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny – Bye Me Fui.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621280d58d8a0bd5400f206d"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Canción de Yandel",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny ft Yandel – Canción De Yandel.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621281318d8a0bd5400f2072"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Pa´ Romperla",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny ft Don Omar – Pa’ Romperla.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621281798d8a0bd5400f2077"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Bad con Nicky",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny ft Nicky Jam – Bad Con Nicky.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621281ac8d8a0bd5400f207c"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Bendiciones",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny – Bendiciones.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621281d88d8a0bd5400f2081"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211c982ec943da18f61e1f2"
+      },
+      "imagen": "https://i.pinimg.com/564x/d9/3e/dc/d93edcd1ac09715b8c53823de5aba407.jpg",
+      "nombre": "Las que no iban a salir",
+      "autor": "Bad Bunny"
+    },
+    "name": "Ronca (Freestyle)",
+    "url": "https://mp3teca.app/-/mp3/128/Bad Bunny – Ronca (Freestyle).mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621282288d8a0bd5400f208b"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Si veo a tu mamá",
+    "url": "https://mp3teca.app/-/aac/96/86347_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212825d8d8a0bd5400f2090"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "La Difícil",
+    "url": "https://mp3teca.app/-/aac/96/86348_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212830d8d8a0bd5400f2095"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Pero ya no",
+    "url": "https://mp3teca.app/-/aac/96/86349_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212833d8d8a0bd5400f209a"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "La Santa",
+    "url": "https://mp3teca.app/-/mp3/Bad Bunny ft Daddy Yankee - La Santa.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212835a8d8a0bd5400f209f"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Yo Perreo Sola",
+    "url": "https://mp3teca.app/-/mp3/Bad Bunny - Yo Perreo Sola.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621283b58d8a0bd5400f20a4"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Bichiyal",
+    "url": "https://mp3teca.app/-/aac/96/86352_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621283d88d8a0bd5400f20a9"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Soliá",
+    "url": "https://mp3teca.app/-/mp3/Bad Bunny - Soliá.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621283fd8d8a0bd5400f20ae"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "La Zona",
+    "url": "https://mp3teca.app/-/mp3/Bad Bunny - La Zona.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212841e8d8a0bd5400f20b3"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Que Malo",
+    "url": "https://mp3teca.app/-/mp3/Bad Bunny ft Ñengo Flow - Que Malo.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621284508d8a0bd5400f20b8"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ca03ec943da18f61e1f4"
+      },
+      "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+      "nombre": "YHLQMDLG",
+      "autor": "Bad Bunny"
+    },
+    "name": "Vete",
+    "url": "https://mp3teca.app/-/aac/96/84434_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621284918d8a0bd5400f20c2"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211caf3ec943da18f61e1f6"
+      },
+      "imagen": "https://i.pinimg.com/564x/42/18/30/421830bf5be11479a01962e35a2b332c.jpg",
+      "nombre": "Oasis",
+      "autor": "Bad Bunny / J Balvin"
+    },
+    "name": "Mojaita",
+    "url": "https://mp3teca.app/-/mp3/J Balvin ft Bad Bunny - Mojaita.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621284b38d8a0bd5400f20c7"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211caf3ec943da18f61e1f6"
+      },
+      "imagen": "https://i.pinimg.com/564x/42/18/30/421830bf5be11479a01962e35a2b332c.jpg",
+      "nombre": "Oasis",
+      "autor": "Bad Bunny / J Balvin"
+    },
+    "name": "Yo le llego",
+    "url": "https://mp3teca.app/-/mp3/J Balvin ft Bad Bunny - Yo Le Llego.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621284d48d8a0bd5400f20cc"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211caf3ec943da18f61e1f6"
+      },
+      "imagen": "https://i.pinimg.com/564x/42/18/30/421830bf5be11479a01962e35a2b332c.jpg",
+      "nombre": "Oasis",
+      "autor": "Bad Bunny / J Balvin"
+    },
+    "name": "Cuidao Por Ahí",
+    "url": "https://mp3teca.app/-/mp3/128/J Balvin ft Bad Bunny – Cuidao Por Ahi.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621285b38d8a0bd5400f20d1"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211caf3ec943da18f61e1f6"
+      },
+      "imagen": "https://i.pinimg.com/564x/42/18/30/421830bf5be11479a01962e35a2b332c.jpg",
+      "nombre": "Oasis",
+      "autor": "Bad Bunny / J Balvin"
+    },
+    "name": "Que pretendes",
+    "url": "https://mp3teca.app/-/mp3/128/J Balvin ft Bad Bunny – Que Pretendes.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621285e78d8a0bd5400f20d6"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211caf3ec943da18f61e1f6"
+      },
+      "imagen": "https://i.pinimg.com/564x/42/18/30/421830bf5be11479a01962e35a2b332c.jpg",
+      "nombre": "Oasis",
+      "autor": "Bad Bunny / J Balvin"
+    },
+    "name": "La Canción",
+    "url": "https://mp3teca.app/-/mp3/J Balvin ft Bad Bunny - La Canción.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621287198d8a0bd5400f212c"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "Los Dioses",
+    "url": "https://mp3teca.app/-/mp3/128/Ozuna ft Anuel AA – Los Dioses.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212874e8d8a0bd5400f2131"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "100",
+    "url": "https://mp3teca.app/-/aac/96/94725_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212876a8d8a0bd5400f2136"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "Antes",
+    "url": "https://mp3teca.app/-/aac/96/94720_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212878a8d8a0bd5400f213b"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "Dime Tú",
+    "url": "https://mp3teca.app/-/aac/96/94726_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621287b08d8a0bd5400f2140"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "RD",
+    "url": "https://mp3teca.app/-/mp3/128/Ozuna ft Anuel AA – RD.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621287c88d8a0bd5400f2145"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "Nena Buena",
+    "url": "https://mp3teca.app/-/mp3/128/Ozuna ft Anuel AA – Nena Buena.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621287e58d8a0bd5400f214a"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "Contra el Mundo",
+    "url": "https://mp3teca.app/-/mp3/128/Ozuna ft Anuel AA – Contra el Mundo.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621288028d8a0bd5400f214f"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cb97ec943da18f61e1f8"
+      },
+      "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+      "nombre": "Los dioses",
+      "autor": "Ozuna"
+    },
+    "name": "Perreo",
+    "url": "https://mp3teca.app/-/mp3/128/Ozuna ft Anuel AA – Perreo.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621288a98d8a0bd5400f2163"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cbf1ec943da18f61e1fa"
+      },
+      "imagen": "https://i.pinimg.com/564x/74/d6/c6/74d6c6dca7de6701d2e08fca358da38d.jpg",
+      "nombre": "Emmanuel",
+      "autor": "Anuel AA"
+    },
+    "name": "No llores mujer",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA ft Travis Barker – No Llores Mujer.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621288dc8d8a0bd5400f2172"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cbf1ec943da18f61e1fa"
+      },
+      "imagen": "https://i.pinimg.com/564x/74/d6/c6/74d6c6dca7de6701d2e08fca358da38d.jpg",
+      "nombre": "Emmanuel",
+      "autor": "Anuel AA"
+    },
+    "name": "Somos o No somos",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA – Somos O No Somos.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621289818d8a0bd5400f2177"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cbf1ec943da18f61e1fa"
+      },
+      "imagen": "https://i.pinimg.com/564x/74/d6/c6/74d6c6dca7de6701d2e08fca358da38d.jpg",
+      "nombre": "Emmanuel",
+      "autor": "Anuel AA"
+    },
+    "name": "Jangueo",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA ft Tego Calderon – Jangueo.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621289ae8d8a0bd5400f217c"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cbf1ec943da18f61e1fa"
+      },
+      "imagen": "https://i.pinimg.com/564x/74/d6/c6/74d6c6dca7de6701d2e08fca358da38d.jpg",
+      "nombre": "Emmanuel",
+      "autor": "Anuel AA"
+    },
+    "name": "Futbol Y Rumba",
+    "url": "https://mp3teca.app/-/aac/96/89147_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "621289cb8d8a0bd5400f2181"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cbf1ec943da18f61e1fa"
+      },
+      "imagen": "https://i.pinimg.com/564x/74/d6/c6/74d6c6dca7de6701d2e08fca358da38d.jpg",
+      "nombre": "Emmanuel",
+      "autor": "Anuel AA"
+    },
+    "name": "Ferrari",
+    "url": "https://mp3teca.app/-/aac/96/89149_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128a088d8a0bd5400f2190"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cc71ec943da18f61e1fc"
+      },
+      "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+      "nombre": "Real hasta la muerte",
+      "autor": "Anuel AA"
+    },
+    "name": "Na Nuevo",
+    "url": "https://mp3teca.app/-/aac/96/51744_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128a2a8d8a0bd5400f2195"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cc71ec943da18f61e1fc"
+      },
+      "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+      "nombre": "Real hasta la muerte",
+      "autor": "Anuel AA"
+    },
+    "name": "Ella quiere beber",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA – Ella Quiere Beber.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128a4c8d8a0bd5400f219a"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cc71ec943da18f61e1fc"
+      },
+      "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+      "nombre": "Real hasta la muerte",
+      "autor": "Anuel AA"
+    },
+    "name": "Hipócrita",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA ft Zion –  Hipocrita.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128a708d8a0bd5400f219f"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cc71ec943da18f61e1fc"
+      },
+      "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+      "nombre": "Real hasta la muerte",
+      "autor": "Anuel AA"
+    },
+    "name": "Modo Avión",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA – Modo Avión.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128a8f8d8a0bd5400f21a4"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cc71ec943da18f61e1fc"
+      },
+      "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+      "nombre": "Real hasta la muerte",
+      "autor": "Anuel AA"
+    },
+    "name": "Bandolera",
+    "url": "https://mp3teca.app/-/aac/96/51735_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128aad8d8a0bd5400f21a9"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cc71ec943da18f61e1fc"
+      },
+      "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+      "nombre": "Real hasta la muerte",
+      "autor": "Anuel AA"
+    },
+    "name": "Pensando en ti",
+    "url": "https://mp3teca.app/-/aac/96/51733_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128aeb8d8a0bd5400f21b3"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ccabec943da18f61e1fe"
+      },
+      "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+      "nombre": "Las leyendas nunca mueren",
+      "autor": "Anuel AA"
+    },
+    "name": "Real Hasta La Muerte",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA – Real Hasta La Muerte.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128b0c8d8a0bd5400f21b8"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ccabec943da18f61e1fe"
+      },
+      "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+      "nombre": "Las leyendas nunca mueren",
+      "autor": "Anuel AA"
+    },
+    "name": "North Carolina",
+    "url": "https://mp3teca.app/-/aac/96/98706_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128b2a8d8a0bd5400f21bd"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ccabec943da18f61e1fe"
+      },
+      "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+      "nombre": "Las leyendas nunca mueren",
+      "autor": "Anuel AA"
+    },
+    "name": "1942",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA – 1942.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128b538d8a0bd5400f21c5"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ccabec943da18f61e1fe"
+      },
+      "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+      "nombre": "Las leyendas nunca mueren",
+      "autor": "Anuel AA"
+    },
+    "name": "Rick Flair",
+    "url": "https://mp3teca.app/-/aac/96/98700_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128b6f8d8a0bd5400f21ca"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ccabec943da18f61e1fe"
+      },
+      "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+      "nombre": "Las leyendas nunca mueren",
+      "autor": "Anuel AA"
+    },
+    "name": "Pin",
+    "url": "https://mp3teca.app/-/aac/96/98713_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128b8c8d8a0bd5400f21cf"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ccabec943da18f61e1fe"
+      },
+      "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+      "nombre": "Las leyendas nunca mueren",
+      "autor": "Anuel AA"
+    },
+    "name": "Mcgregor",
+    "url": "https://mp3teca.app/-/mp3/128/Anuel AA – Mcgregor.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128f5e8d8a0bd5400f21de"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211cfdcec943da18f61e206"
+      },
+      "imagen": "https://i.discogs.com/l4lB5GpSCVjwwW-RGLJ1H0-iRwpv4ymHI7TJ6wnRBCo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTEz/Mjk4NjAzLTE1NTE2/Mjg2NzktNzg4NS5q/cGVn.jpeg",
+      "nombre": "Loud",
+      "autor": "Rihanna"
+    },
+    "name": "You Da One",
+    "url": "https://mp3teca.app/-/aac/96/22076_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128f9b8d8a0bd5400f21e8"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211d134ec943da18f61e20e"
+      },
+      "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/e44cc8f/2147483647/strip/true/crop/1527x1202+56+0/resize/1000x787!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fdc%2F83%2Fa139b84a4f1c922af8591a631d39%2Fthe-weeknd.jpg",
+      "nombre": "After Hours",
+      "autor": "The Weeknd"
+    },
+    "name": "LA FAMA",
+    "url": "https://mp3teca.app/-/aac/96/98502_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128fb98d8a0bd5400f21ed"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211d134ec943da18f61e20e"
+      },
+      "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/e44cc8f/2147483647/strip/true/crop/1527x1202+56+0/resize/1000x787!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fdc%2F83%2Fa139b84a4f1c922af8591a631d39%2Fthe-weeknd.jpg",
+      "nombre": "After Hours",
+      "autor": "The Weeknd"
+    },
+    "name": "Blinding Lights (Remix)",
+    "url": "https://mp3teca.app/-/mp3/128/ROSALÍA ft The Weeknd – Blinding Lights (Remix).mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "62128fd28d8a0bd5400f21f2"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211d134ec943da18f61e20e"
+      },
+      "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/e44cc8f/2147483647/strip/true/crop/1527x1202+56+0/resize/1000x787!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fdc%2F83%2Fa139b84a4f1c922af8591a631d39%2Fthe-weeknd.jpg",
+      "nombre": "After Hours",
+      "autor": "The Weeknd"
+    },
+    "name": "Hawai (Remix)",
+    "url": "https://mp3teca.app/-/mp3/128/Maluma ft The Weeknd – Hawai (Remix).mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212d2fea09eaa733ab60cf8"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211d19eec943da18f61e210"
+      },
+      "imagen": "https://cdn.themedizine.com/2016/11/post-malone-stoney-700x394.jpg",
+      "nombre": "Stoney",
+      "autor": "Post Malone"
+    },
+    "name": "Congratulations ",
+    "url": "https://www.morexlusive.com/wp-content/uploads/2021/11/Post_Malone_ft_Quavo_-_Congratulations.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6212d400a09eaa733ab60d0b"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6211ce5cec943da18f61e200"
+      },
+      "imagen": "https://media21.liverpool.com.mx/web/images/products/es_MX/xl/1044329545.jpg",
+      "nombre": "A Head Full of Dreams",
+      "autor": "Coldplay"
+    },
+    "name": "Paradise",
+    "url": "https://mybestfeelings.com/wp-content/uploads/2021/06/Coldplay-Paradise-Mybestfeelings.com_.mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6213be96451f282468b66455"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6213bdd6451f282468b66439"
+      },
+      "imagen": "https://i.pinimg.com/736x/a8/fa/63/a8fa63d208afc971f3535494ec0898e8.jpg",
+      "nombre": "Famouz",
+      "autor": "Jhay Cortez"
+    },
+    "name": "No me conoce (Remix)",
+    "url": "https://elgenero.me/musica/-/2021/07/Jhay Cortez, J Balvin, Bad Bunny - No Me Conoce (Remix).mp3",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6213c7d3451f282468b66499"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6213bdd6451f282468b66439"
+      },
+      "imagen": "https://i.pinimg.com/736x/a8/fa/63/a8fa63d208afc971f3535494ec0898e8.jpg",
+      "nombre": "Famouz",
+      "autor": "Jhay Cortez"
+    },
+    "name": "Fiel",
+    "url": "https://mp3teca.app/-/aac/96/94965_96.m4a",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6213d7ea451f282468b6653b"
+    },
+    "album": {
+      "_id": {
+        "$oid": "6213d7c9451f282468b66530"
+      },
+      "imagen": "https://i.pinimg.com/564x/a8/fa/63/a8fa63d208afc971f3535494ec0898e8.jpg",
+      "nombre": "Famouz",
+      "autor": "Jhay Cortez"
+    },
+    "name": "Fiel",
+    "url": "https://mp3teca.app/-/mp3/128/Wisin ft Jhay Cortez – Fiel.mp3",
+    "__v": 0
+  }
+]

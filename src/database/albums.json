@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "6211c4ab6b1ae8a14c3da6ab"
+    },
+    "imagen": "http://images.45worlds.com/f/cd/luis-miguel-20-anos-3-cd.jpg",
+    "nombre": "20 Años",
+    "autor": "Luis Miguel",
+    "lanzamiento": "18-05-1990",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211c893ec943da18f61e1f0"
+    },
+    "imagen": "https://i.pinimg.com/564x/05/80/fb/0580fb2782c7ffbdedc126ee17661e6d.jpg",
+    "nombre": "El último tour del mundo",
+    "autor": "Bad Bunny",
+    "lanzamiento": "18-08-2020",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211c982ec943da18f61e1f2"
+    },
+    "imagen": "https://i.pinimg.com/564x/06/61/c5/0661c5746c2f1cafd727c1e72e630946.jpg",
+    "nombre": "Las que no iban a salir",
+    "autor": "Bad Bunny",
+    "lanzamiento": "05-10-2020",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211ca03ec943da18f61e1f4"
+    },
+    "imagen": "https://i.pinimg.com/564x/86/db/69/86db69491b66ddc18f866093bddfa48d.jpg",
+    "nombre": "YHLQMDLG",
+    "autor": "Bad Bunny",
+    "lanzamiento": "29-02-2020",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211caf3ec943da18f61e1f6"
+    },
+    "imagen": "https://i.pinimg.com/564x/42/18/30/421830bf5be11479a01962e35a2b332c.jpg",
+    "nombre": "Oasis",
+    "autor": "J Balvin",
+    "lanzamiento": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211cb97ec943da18f61e1f8"
+    },
+    "imagen": "https://www.objetivoreggaeton.com/wp-content/uploads/2021/01/ozuna-y-anuel-aa-son-los-dioses-de-la-musica-urbana-300x300.jpg",
+    "nombre": "Los dioses",
+    "autor": "Ozuna",
+    "lanzamiento": null,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211cbf1ec943da18f61e1fa"
+    },
+    "imagen": "https://i.pinimg.com/564x/74/d6/c6/74d6c6dca7de6701d2e08fca358da38d.jpg",
+    "nombre": "Emmanuel",
+    "autor": "Anuel AA",
+    "lanzamiento": "13-05-2021",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211cc71ec943da18f61e1fc"
+    },
+    "imagen": "https://i.pinimg.com/564x/b1/df/1a/b1df1ac3bf39d1559f006d8d3c14baf6.jpg",
+    "nombre": "Real hasta la muerte",
+    "autor": "Anuel AA",
+    "lanzamiento": "16-04-2020",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211ccabec943da18f61e1fe"
+    },
+    "imagen": "http://wowlarevista.com/wp-content/uploads/2021/11/anuel1.jpg",
+    "nombre": "Las leyendas nunca mueren",
+    "autor": "Anuel AA",
+    "lanzamiento": "26-11-2021",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211ce5cec943da18f61e200"
+    },
+    "imagen": "https://media21.liverpool.com.mx/web/images/products/es_MX/xl/1044329545.jpg",
+    "nombre": "A Head Full of Dreams",
+    "autor": "Coldplay",
+    "lanzamiento": "4 de diciembre de 2015",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211ce90ec943da18f61e202"
+    },
+    "imagen": "https://www.criticaspolares.com/wp-content/uploads/2021/10/critica-music-of-the-spheres-coldplay-2021.fin_.jpg.webp",
+    "nombre": "Music of the Spheres",
+    "autor": "Coldplay",
+    "lanzamiento": "15 de octubre de 2021",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211cedcec943da18f61e204"
+    },
+    "imagen": "https://www.merchandisingplaza.es/276553/2/Discos-de-vinilo-Imagine-Dragons-Vinilo-Imagine-Dragons---Evolve-l.jpg",
+    "nombre": "Evolve",
+    "autor": "Imagine Dragons",
+    "lanzamiento": "23 de junio de 2017",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211cfdcec943da18f61e206"
+    },
+    "imagen": "https://i.discogs.com/l4lB5GpSCVjwwW-RGLJ1H0-iRwpv4ymHI7TJ6wnRBCo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTEz/Mjk4NjAzLTE1NTE2/Mjg2NzktNzg4NS5q/cGVn.jpeg",
+    "nombre": "Loud",
+    "autor": "Rihanna",
+    "lanzamiento": "12-11-2010",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d021ec943da18f61e208"
+    },
+    "imagen": "https://imagescdn.juno.co.uk/300/CS96163-01A-MED.jpg",
+    "nombre": "The Eminem Show",
+    "autor": "Eminem",
+    "lanzamiento": "26 de mayo de 2002",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d06fec943da18f61e20a"
+    },
+    "imagen": "https://m.media-amazon.com/images/I/41zkT6A1s-L.jpg",
+    "nombre": "Views",
+    "autor": "Drake",
+    "lanzamiento": "19-02-2020",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d091ec943da18f61e20c"
+    },
+    "imagen": "http://www.tiumag.com/wp-content/uploads/drake-scorpion-album-cover.jpg",
+    "nombre": "Scorpion",
+    "autor": "Drake",
+    "lanzamiento": "29 de junio de 2018",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d134ec943da18f61e20e"
+    },
+    "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/e44cc8f/2147483647/strip/true/crop/1527x1202+56+0/resize/1000x787!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2Fdc%2F83%2Fa139b84a4f1c922af8591a631d39%2Fthe-weeknd.jpg",
+    "nombre": "After Hours",
+    "autor": "The Weeknd",
+    "lanzamiento": "20 de marzo de 2020",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d19eec943da18f61e210"
+    },
+    "imagen": "https://cdn.themedizine.com/2016/11/post-malone-stoney-700x394.jpg",
+    "nombre": "Stoney",
+    "autor": "Post Malone",
+    "lanzamiento": "9 de diciembre de 2016",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d1dcec943da18f61e212"
+    },
+    "imagen": "https://cdn.themedizine.com/2019/09/postmalone_hollywoodsbleeding-1000x500.jpg",
+    "nombre": "Hollywood's Bleeding",
+    "autor": "Post Malone",
+    "lanzamiento": "6 de septiembre de 2019",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6211d25dec943da18f61e214"
+    },
+    "imagen": "https://www.terra-melodica.eu/9245-large_default/nectar-cd-cari-osa.jpg",
+    "nombre": "Tu Vives Equivocada",
+    "autor": "Grupo Néctar",
+    "lanzamiento": "6 de abril de 2001",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6213d7c9451f282468b66530"
+    },
+    "imagen": "https://i.pinimg.com/564x/a8/fa/63/a8fa63d208afc971f3535494ec0898e8.jpg",
+    "nombre": "Famouz",
+    "autor": "Jhay Cortez",
+    "lanzamiento": "18-11-2019",
+    "__v": 0
+  }
+]
